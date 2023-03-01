@@ -7,8 +7,7 @@
 */
 
 //CODE HERE
-var lovesCode = true
-  console.log(I love to code!)
+
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
 var brittanisAge = 34;
